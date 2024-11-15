@@ -1,10 +1,7 @@
 
 # 🚗 Car Management Application
 
-This project is a full-stack web application that allows users to manage their car listings. Each user can add, view, edit, and delete their own cars, with support for image uploads and a global search feature to filter cars by title, description, or tags.
-
-- **Client URL**: [https://your-client-domain.com](https://your-client-domain.com)
-- **Server URL**: [https://your-server-url.com](https://your-server-url.com)
+This project is a full-stack web application that allows users to manage their car listings. Each user can add, view, edit, and delete their own cars, with support for image uploads and a global search feature to filter cars by title, description
 
 ## 🌟 Features
 
@@ -77,14 +74,14 @@ This project is a full-stack web application that allows users to manage their c
      cd backend
      npm start
      ```
-     The backend server should be running on `http://localhost:5000`.
+     The backend server should be running on `http://localhost:6001`.
 
    - **Frontend**: 
      ```bash
      cd frontend
      npm start
      ```
-     The frontend client should be accessible at `http://localhost:3000`.
+     The frontend client should be accessible at `http://localhost:3001`.
 
 
 ## 📚 API Endpoints
